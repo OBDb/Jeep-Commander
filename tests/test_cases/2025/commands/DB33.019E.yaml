@@ -1,0 +1,5 @@
+command_id: DB33.019E
+test_cases:
+- response: 18DAF11004419E027C
+  expected_values:
+    EXH_RATE: 127.2
