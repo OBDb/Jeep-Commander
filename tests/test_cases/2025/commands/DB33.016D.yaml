@@ -1,9 +1,6 @@
 command_id: DB33.016D
 test_cases:
-- response: |-
-    18DAF110100D416D12000003
-    18DAF1102178000000037800
-  expected_values:
+- expected_values:
     FRP_A: 8880
     FRP_A_CMD: 0
     FRP_A_CMD_SUP: 0
@@ -16,3 +13,6 @@ test_cases:
     FRT_A_SUP: 0
     FRT_B: -40
     FRT_B_SUP: 0
+  response: |-
+    18DAF110100D416D12000003
+    18DAF1102178000000037800
