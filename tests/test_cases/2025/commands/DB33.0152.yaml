@@ -1,5 +1,5 @@
 command_id: DB33.0152
 test_cases:
-- response: 18DAF110034152FC
-  expected_values:
+- expected_values:
     ALCH_PCT: 98.82353
+  response: 18DAF110034152FC
