@@ -1,3 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Jeep_Commander"
+  - "https://en.wikipedia.org/wiki/Jeep_Commander_(XK)"
+  - "https://en.wikipedia.org/wiki/Jeep_Grand_Commander"
+  - "https://en.wikipedia.org/wiki/Jeep_Commander_(2022)"
+
 generations:
   - name: "First Generation (XK, North America)"
     start_year: 2006
